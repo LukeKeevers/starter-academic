@@ -16,16 +16,16 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: I have been using R since my second-year of undergraduate studies. R is my go-to for all of my data analysis and visualisation. I am fluent in *tidyverse* and experienced in R-based open-science practices.
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: I have been using SPSS since my first year at university. Although an avid R user, I am well versed in statistical analysis and data visualisation using SPSS.
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: SPSS
+- description: Proficient in photo and video editing software for use in basic graphic design or multi-media projects.
+  icon: photo-video
   icon_pack: fas
   name: Photography
 
