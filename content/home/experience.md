@@ -22,28 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
+  - title: Research Assistant
+    company: Grisham OCD Lab
+    company_url: 'http://www.grishamocdlab.com/'
+    company_logo: grishamlogo
+    location: Sydney
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Evaluating 180+ scientific articles for systematic review
+        * Testing and reviewing pilot studies
+        * Participation in fortnightly lab meetings
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant
+    company: Developmental Affective Science (DAS) Lab
+    company_url: 'https://sites.google.com/view/daslab/home?authuser=0'
+    company_logo: daslogo
+    location: Sydney
+    date_start: '2019-01-05'
+    date_end: '2020-06-16'
+    description: |2-
+        Responsibilities include:
+        
+        * Conducting psychological experiments on emotion regulation
+        * Handling research grant funds 
+        * Submission of university ethics applications
+        * Organisation of multiple science workshops for public engagement
 
 design:
   columns: '2'

@@ -27,7 +27,7 @@ feature:
 - description: Proficient in photo and video editing software for use in basic graphic design or multi-media projects.
   icon: photo-video
   icon_pack: fas
-  name: Photography
+  name: Photoshop and Design
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

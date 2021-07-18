@@ -61,8 +61,8 @@ email: ""
 highlight_name: false
 ---
 
-Luke Keevers is a student in his third-year of an undergraduate Bachelor of Psychology (Honours) at the University of New South Wales (UNSW). He is interested in all things psychology and is passionate about open science and research. He is currently volunteering as a research assistant for the Grisham OCD Lab at UNSW, where he is collaborating with a graduate student as a blind reviewer on a systematic review concerning mental imagery and the treatment of worry.
+I'm a student in my third-year of an undergraduate Bachelor of Psychology (Honours) at the University of New South Wales (UNSW). I'm interested in all things psychology and I'm passionate about open science and research. I'm currently volunteering as a research assistant for the Grisham OCD Lab at UNSW, where I'm collaborating with a graduate student as a blind reviewer on a systematic review concerning mental imagery and the treatment of worry.
 
-In the future, Luke hopes to finish his undergraduate degree (including Honours) and go on to complete either a Master's degree or PhD in psychology (or both). 
+In the future, I hope to finish my undergraduate degree (including Honours) and go on to complete either a Master's degree or PhD in psychology (or both). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

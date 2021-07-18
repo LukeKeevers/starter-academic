@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Welcome to My Website!
+subtitle: Welcome 👋 I know that first impressions are important, so I've written a small post to introduce myself and how I built my website.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Welcome 👋 I know that first impressions are important, so I've written a small post to introduce myself and how I built my website.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-07-18T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-07-18T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,83 +23,31 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**ArtofManliness**](https://www.artofmanliness.com/articles/steve-mcqueen-in-great-escape/)'
   focal_point: ""
   placement: 2
   preview_only: false
 
 authors:
 - admin
-- 吳恩達
 
 tags:
-- Academic
-- 开源
+- Introduction
 
 categories:
-- Demo
-- 教程
+- Introduction
 ---
 
-## Overview
+## A little about me...
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Hi! My name is Luke. I am currently a student at the University of New South Wales in my 3rd year of the Bachelor of Psychology program. This year (2021), despite the pandemic nightmare, I have been fortunate enough to work as a research assistant for the [Grisham OCD Lab](http://www.grishamocdlab.com/), headed by Professor Jessica Grisham. Over the last 6 months, I have been collaborating with a PhD student on a systematic review concerning the role of imagery in the treatment of worry. For this particular project, I am working as a second blind reviewer, tasked with reading and evaluating over 180 scientific papers for potential inclusion in the review.
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+When I'm not doing lab or course work, I like to grab a beer with mates, read a good book or watch a classic movie, like The Great Escape (hence the picture of the Cooler King above!). I am also the biggest Pittsburgh Steeler fan this side of the Pacific. As a lover of the Australian psych-rock scene, you can usually find me listening to some King Gizzard or Tame Impala, if I'm not jamming along on the drums. 
 
-## Get Started
+I decided to make this website as a space for friends, colleagues, future employers etc. to keep up with my academic and career activities. For those who don't know, next year I will be completing my Honours and, beyond that, I hope to complete either a Master's degree in clinical psychology or a PhD (or both). This site will be the optimal spot for me to post updates on all of my research activities. For now, however, I intend to test it out with some small updates regarding my academic or personal projects. In the next section, I will give a little detail to how I put the site together. If you just came here to learn a little about me and don't care about website building at all, this is probably where you should stop. Thanks for dropping by!
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+## How This Site Was Built
 
-## Crowd-funded open-source software
+This site was built off an academic template from Hugo and published through Wowchemy and Netlify. All of the code for this site was written using R. If you are proficient in R and would like to build a personal, academic site like this one, I highly recommend [this video](https://www.youtube.com/watch?v=ox_Ue9yzf-0&list=LL&index=8&t=135s) by fellow Aussie Daniel Quintana which talks about how to make this site using **blogdown** for R. Beyond this fantastic introductory tutorial, the rest of the site building procedure is well explained by [Wochemy](https://wowchemy.com/docs/getting-started/). Of course, I also have to give credit to [UNSW CodeRs](https://unsw-coders.netlify.app/) for providing useful website building tips, and a past tutor [Jenny Sloane](https://jennysloane.netlify.app/#about) (who also has a great tutorial on her website about using **blogdown**), for the original idea and inspiration.
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
