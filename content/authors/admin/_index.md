@@ -61,7 +61,7 @@ email: ""
 highlight_name: false
 ---
 
-I'm a student in my third-year of an undergraduate Bachelor of Psychology (Honours) at the University of New South Wales (UNSW). I'm interested in all things psychology and I'm passionate about open science and research. I'm currently volunteering as a research assistant for the Grisham OCD Lab at UNSW, where I'm collaborating with a graduate student as a blind reviewer on a systematic review concerning mental imagery and the treatment of worry.
+I'm a student in my third-year of the undergraduate Bachelor of Psychology (Honours) program at the University of New South Wales (UNSW). I'm interested in all things psychology and I'm passionate about open science and research. I'm currently volunteering as a research assistant for the Grisham OCD Lab at UNSW, where I'm collaborating with a graduate student as a blind reviewer on a systematic review concerning mental imagery and the treatment of worry.
 
 In the future, I hope to finish my undergraduate degree (including Honours) and go on to complete either a Master's degree or PhD in psychology (or both). 
 

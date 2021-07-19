@@ -1,9 +1,9 @@
 ---
 title: Welcome to My Website!
-subtitle: Welcome 👋 I know that first impressions are important, so I've written a small post to introduce myself and how I built my website.
+subtitle: Welcome 👋  I know that first impressions are important, so I've written a short post to introduce myself and explain how I built my website.
 
 # Summary for listings and search engines
-summary: Welcome 👋 I know that first impressions are important, so I've written a small post to introduce myself and how I built my website.
+summary: Welcome 👋  I know that first impressions are important, so I've written a short post to introduce myself and explain how I built my website.
 
 # Link this post with a project
 projects: []

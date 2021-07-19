@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Grisham OCD Lab
     company_url: 'http://www.grishamocdlab.com/'
-    company_logo: grishamlogo
+    company_logo: daslogo
     location: Sydney
     date_start: '2021-01-01'
     date_end: ''
@@ -44,7 +44,7 @@ experience:
     date_start: '2019-01-05'
     date_end: '2020-06-16'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
         * Conducting psychological experiments on emotion regulation
         * Handling research grant funds 
