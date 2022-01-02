@@ -1,5 +1,5 @@
 ---
-title: The Insufficiency of Rationality: An Insight from the Underground Man
+title: An Insight from the Underground Man
 subtitle: A personal reflection on the profound philosophical and psychological insight of Fyodor Dostoevsky and why his short novella *Notes from Underground* is a must read.
 
 # Summary for listings and search engines
@@ -15,7 +15,7 @@ date: "2022-01-01T00:00:00Z"
 lastmod: "2022-01-01T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
